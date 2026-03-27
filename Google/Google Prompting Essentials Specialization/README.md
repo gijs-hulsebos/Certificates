@@ -1,1 +1,1 @@
-https://www.coursera.org/learn/accelerate-your-job-search-with-ai#modules
+https://www.coursera.org/specializations/prompting-essentials-google#courses
