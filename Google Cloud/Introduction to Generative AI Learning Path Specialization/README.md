@@ -1,0 +1,1 @@
+https://www.coursera.org/specializations/introduction-to-generative-ai#courses
