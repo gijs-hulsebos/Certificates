@@ -1,2 +1,2 @@
-DONE - Waiting for certifications
+Finished - Waiting for certifications
 https://www.coursera.org/professional-certificates/google-ai

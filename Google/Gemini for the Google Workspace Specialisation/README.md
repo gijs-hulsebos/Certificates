@@ -1,2 +1,2 @@
-Done - waiting for certificate
+Finished - waiting for certificate
 https://www.coursera.org/specializations/gemini-for-google-workspace
