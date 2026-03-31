@@ -24,11 +24,9 @@ This module analyzes the fundamental intersection between **Artificial Intellige
 
 **Primary Source:** [Harvard/SSRN - Matthew U. Scherer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2609777)
 
-| 🎙️ Audio Deep Dive | 📄 Policy Report |
-| :--- | :--- |
-| [![Audio Report](https://img.shields.io/badge/Listen_to_Audio-121212?style=for-the-badge&logo=googlepodcasts&logoColor=white)](https://drive.google.com/file/d/1N9OkKJ5QWLhGygDVkBK3T4Tgf5WCWZ7I/view?usp=drive_link) | [![PDF Report](https://img.shields.io/badge/Read_Full_Report-121212?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/1UB6EymJ22MCCcOcEdTGD9dR9k4VIh0p2/view?usp=drive_link) |
-| **🎥 Technical Video** | **🧠 Structural Mind Map** |
-| [![Watch Video](https://img.shields.io/badge/Watch_Analysis-121212?style=for-the-badge&logo=googledrive&logoColor=red)](https://drive.google.com/file/d/1XA8cRjQ4EhZ9t0vp6dVbQZe00Ht7Gpm1/view?usp=drive_link) | [![View Mind Map](https://img.shields.io/badge/View_Mind_Map-121212?style=for-the-badge&logo=googledrive&logoColor=blue)](https://drive.google.com/file/d/1o0gR7g5Ky-7kC565Qvqgni1h0g1RNhGD/view?usp=drive_link) |
+| 🎙️ Audio Deep Dive | 📄 Policy Report | 🎥 Technical Video | 🧠 Structural Mind Map |
+| :--- | :--- | :--- | :--- |
+| [![Audio](https://img.shields.io/badge/Listen_to_Audio-121212?style=for-the-badge&logo=googlepodcasts&logoColor=white)](https://drive.google.com/file/d/1N9OkKJ5QWLhGygDVkBK3T4Tgf5WCWZ7I/view?usp=drive_link) | [![Report](https://img.shields.io/badge/Read_Report-121212?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/1UB6EymJ22MCCcOcEdTGD9dR9k4VIh0p2/view?usp=drive_link) | [![Video](https://img.shields.io/badge/Watch_Analysis-121212?style=for-the-badge&logo=googledrive&logoColor=red)](https://drive.google.com/file/d/1XA8cRjQ4EhZ9t0vp6dVbQZe00Ht7Gpm1/view?usp=drive_link) | [![Mind Map](https://img.shields.io/badge/View_Mind_Map-121212?style=for-the-badge&logo=googledrive&logoColor=blue)](https://drive.google.com/file/d/1o0gR7g5Ky-7kC565Qvqgni1h0g1RNhGD/view?usp=drive_link) |
 
 > [!TIP]
 > **View all notes for this paper:** [📂 Regulating Artificial Intelligence Systems - Harvard Paper Assets](https://drive.google.com/drive/folders/1UJt9fXN5-138rfYSLS-28NlpswNWS4F8?usp=drive_link)
@@ -40,11 +38,9 @@ This module analyzes the fundamental intersection between **Artificial Intellige
 
 **Primary Source:** [SSRN - Legal Dimension of Quantum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3820003)
 
-| 🎙️ Audio Deep Dive | 📄 Policy Report |
-| :--- | :--- |
-| [![Audio Report](https://img.shields.io/badge/Listen_to_Audio-121212?style=for-the-badge&logo=googlepodcasts&logoColor=white)](https://drive.google.com/file/d/1NKpgv2RmH5l23V8P9iYLj2ceaDtWW-BO/view?usp=drive_link) | [![PDF Report](https://img.shields.io/badge/Read_Full_Report-121212?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/1AVZ54CqBHy-1BQNM3THUBtqJv6f_EDUj/view?usp=drive_link) |
-| **🎥 Technical Video** | **🧠 Structural Mind Map** |
-| [![Watch Video](https://img.shields.io/badge/Watch_Analysis-121212?style=for-the-badge&logo=googledrive&logoColor=red)](https://drive.google.com/file/d/1NDb5nHlJLXyX35vCF-M60OTGQJIfWl2T/view?usp=drive_link) | [![View Mind Map](https://img.shields.io/badge/View_Mind_Map-121212?style=for-the-badge&logo=googledrive&logoColor=blue)](https://drive.google.com/file/d/12XUofuJNSD0ewpYCsoXmu0NAQqJxvBwU/view?usp=drive_link) |
+| 🎙️ Audio Deep Dive | 📄 Policy Report | 🎥 Technical Video | 🧠 Structural Mind Map |
+| :--- | :--- | :--- | :--- |
+| [![Audio](https://img.shields.io/badge/Listen_to_Audio-121212?style=for-the-badge&logo=googlepodcasts&logoColor=white)](https://drive.google.com/file/d/1NKpgv2RmH5l23V8P9iYLj2ceaDtWW-BO/view?usp=drive_link) | [![Report](https://img.shields.io/badge/Read_Report-121212?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/1AVZ54CqBHy-1BQNM3THUBtqJv6f_EDUj/view?usp=drive_link) | [![Video](https://img.shields.io/badge/Watch_Analysis-121212?style=for-the-badge&logo=googledrive&logoColor=red)](https://drive.google.com/file/d/1NDb5nHlJLXyX35vCF-M60OTGQJIfWl2T/view?usp=drive_link) | [![Mind Map](https://img.shields.io/badge/View_Mind_Map-121212?style=for-the-badge&logo=googledrive&logoColor=blue)](https://drive.google.com/file/d/12XUofuJNSD0ewpYCsoXmu0NAQqJxvBwU/view?usp=drive_link) |
 
 > [!TIP]
 > **View all notes for this paper:** [📂 The Quantum Imperative Assets Folder](https://drive.google.com/drive/folders/1L3CkZGY7VlrXwKGTE4sfoUAsYF5bYiV8?usp=drive_link)
