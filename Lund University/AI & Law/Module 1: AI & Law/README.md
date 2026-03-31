@@ -13,46 +13,51 @@
 </p>
 
 # ⚖️ Module 1: AI & Law — Lund University
-### *Part of the "Technical Governance" Stack*
+### *Foundations of AI Regulation & Technical Governance*
 
-This module analyzes the fundamental intersection between **Artificial Intelligence systems** and **legal frameworks**. As an AI Automation Engineer, I focus on the "Foreseeability Gap" and liability challenges to build systems that are not only autonomous but also **compliant and error-resilient** under emerging regulations like the **EU AI Act**.
-
----
-
-### 📚 Primary Source Material
-The analysis in this module is anchored in foundational legal research from the **Harvard/SSRN** database:
-* **Research Paper:** [Regulating AI Systems: Risks, Challenges, Competencies, and Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2609777)
-* **Author:** Matthew U. Scherer (Harvard Journal of Law & Technology)
+This module analyzes the fundamental intersection between **Artificial Intelligence systems**, **Quantum disruption**, and **legal frameworks**. As an AI Automation Engineer, I focus on bridging the gap between autonomous technical execution and emerging compliance standards.
 
 ---
 
-### 🎙️ AI-Augmented Research: Audio Deep Dive
-I utilize **NotebookLM** to synthesize complex legal papers into high-signal audio reports. This allows for rapid cross-referencing between legal theory and technical implementation.
-* [**🔊 Listen to Executive Audio Summary**](https://drive.google.com/file/d/1N9OkKJ5QWLhGygDVkBK3T4Tgf5WCWZ7I/view?usp=drive_link)
-> *Topic: How liability laws can control AI development and deployment.*
+### 1️⃣ Analysis: Regulating AI Systems (AIDA Framework)
+*Focus: Tort liability, the "Foreseeability Gap," and institutional competencies in AI governance.*
 
----
+**Primary Source:** [Harvard/SSRN - Matthew U. Scherer](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2609777)
 
-### 📺 Visual Synthesis & Structural Mapping
-Mapping the "4-D Barriers" (Discreet, Diffuse, Discrete, Opaque) and institutional competencies:
-
-| 🎥 Technical Analysis | 🧠 Structural Mind Map |
+| 🎙️ Audio Deep Dive | 📄 Policy Report |
 | :--- | :--- |
-| [![Video Report](https://img.shields.io/badge/Watch_Video-121212?style=for-the-badge&logo=googledrive&logoColor=red)](https://drive.google.com/file/d/1XA8cRjQ4EhZ9t0vp6dVbQZe00Ht7Gpm1/view?usp=drive_link) | [![Mind Map](https://img.shields.io/badge/View_Mind_Map-121212?style=for-the-badge&logo=googledrive&logoColor=blue)](https://drive.google.com/file/d/1o0gR7g5Ky-7kC565Qvqgni1h0g1RNhGD/view?usp=drive_link) |
+| [![Audio Report](https://img.shields.io/badge/Listen_to_Audio-121212?style=for-the-badge&logo=googlepodcasts&logoColor=white)](https://drive.google.com/file/d/1N9OkKJ5QWLhGygDVkBK3T4Tgf5WCWZ7I/view?usp=drive_link) | [![PDF Report](https://img.shields.io/badge/Read_Full_Report-121212?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/1UB6EymJ22MCCcOcEdTGD9dR9k4VIh0p2/view?usp=drive_link) |
+| **🎥 Technical Video** | **🧠 Structural Mind Map** |
+| [![Watch Video](https://img.shields.io/badge/Watch_Analysis-121212?style=for-the-badge&logo=googledrive&logoColor=red)](https://drive.google.com/file/d/1XA8cRjQ4EhZ9t0vp6dVbQZe00Ht7Gpm1/view?usp=drive_link) | [![View Mind Map](https://img.shields.io/badge/View_Mind_Map-121212?style=for-the-badge&logo=googledrive&logoColor=blue)](https://drive.google.com/file/d/1o0gR7g5Ky-7kC565Qvqgni1h0g1RNhGD/view?usp=drive_link) |
+
+> [!TIP]
+> **View all notes for this paper:** [📂 Regulating Artificial Intelligence Systems - Harvard Paper Assets](https://drive.google.com/drive/folders/1UJt9fXN5-138rfYSLS-28NlpswNWS4F8?usp=drive_link)
 
 ---
 
-### 📄 Policy Documentation (AIDA Framework)
-Detailed textual analysis focused on the **Artificial Intelligence Development Act (AIDA)** and the shift toward *Ex-Ante* governance.
+### 2️⃣ Analysis: The Quantum Imperative
+*Focus: Addressing the legal dimension of Quantum Computers and their impact on encryption and AI Jurisprudence.*
 
-* **Full Policy Report:** [Download PDF Analysis](https://drive.google.com/file/d/1UB6EymJ22MCCcOcEdTGD9dR9k4VIh0p2/view?usp=drive_link)
+**Primary Source:** [SSRN - Legal Dimension of Quantum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3820003)
+
+| 🎙️ Audio Deep Dive | 📄 Policy Report |
+| :--- | :--- |
+| [![Audio Report](https://img.shields.io/badge/Listen_to_Audio-121212?style=for-the-badge&logo=googlepodcasts&logoColor=white)](https://drive.google.com/file/d/1NKpgv2RmH5l23V8P9iYLj2ceaDtWW-BO/view?usp=drive_link) | [![PDF Report](https://img.shields.io/badge/Read_Full_Report-121212?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/1AVZ54CqBHy-1BQNM3THUBtqJv6f_EDUj/view?usp=drive_link) |
+| **🎥 Technical Video** | **🧠 Structural Mind Map** |
+| [![Watch Video](https://img.shields.io/badge/Watch_Analysis-121212?style=for-the-badge&logo=googledrive&logoColor=red)](https://drive.google.com/file/d/1NDb5nHlJLXyX35vCF-M60OTGQJIfWl2T/view?usp=drive_link) | [![View Mind Map](https://img.shields.io/badge/View_Mind_Map-121212?style=for-the-badge&logo=googledrive&logoColor=blue)](https://drive.google.com/file/d/12XUofuJNSD0ewpYCsoXmu0NAQqJxvBwU/view?usp=drive_link) |
+
+> [!TIP]
+> **View all notes for this paper:** [📂 The Quantum Imperative Assets Folder](https://drive.google.com/drive/folders/1L3CkZGY7VlrXwKGTE4sfoUAsYF5bYiV8?usp=drive_link)
+
+---
+
+### 🛠️ Research Methodology
+All analyses in this module are synthesized using an **AI-Augmented workflow (NotebookLM)** to bridge complex legal theory with technical implementation.
 * **Research Environment:** [Interactive NotebookLM Context](https://notebooklm.google.com/notebook/fe46aeba-3a33-4345-a5fe-f657e5f0e71c)
 
----
-
 ### 📂 Repository Access
-* **Module 1 Assets:** [Google Drive Folder](https://drive.google.com/drive/folders/1LN_Mna-sNwcfHgulgU3gZ351Ai_V_ZLJ?usp=drive_link)
-* **Full Legal Stack:** [Complete Lund University Archive](https://drive.google.com/drive/folders/1kpTD75jxcS_QZUqYjX9Q8gY3L4Z5OMUU?usp=drive_link)
+* **Module 1 Master Folder:** [Module 1: AI & Law Assets (Google Drive)](https://drive.google.com/drive/folders/1LN_Mna-sNwcfHgulgU3gZ351Ai_V_ZLJ?usp=drive_link)
+* **Complete Course Archive:** [Lund University - All Notes (Google Drive)](https://drive.google.com/drive/folders/1kpTD75jxcS_QZUqYjX9Q8gY3L4Z5OMUU?usp=drive_link)
 
 ---
 
