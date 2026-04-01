@@ -12,7 +12,7 @@
   </a>
 </p>
 
-# ⚖️ Module 1: AI & Law — Lund University
+# ⚖️ Module 1: AI & Law - Lund University
 ### *Foundations of AI Regulation & Technical Governance*
 
 This module analyzes the fundamental intersection between **Artificial Intelligence systems**, **Quantum disruption**, and **legal frameworks**. As an AI Automation Engineer, I focus on bridging the gap between autonomous technical execution and emerging compliance standards.
