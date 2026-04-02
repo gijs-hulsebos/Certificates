@@ -47,9 +47,12 @@ This module analyzes the fundamental intersection between **Artificial Intellige
 
 ---
 
-### 🛠️ Research Methodology
-All analyses in this module are synthesized using an **AI-Augmented workflow (NotebookLM)** to bridge complex legal theory with technical implementation.
-* **Research Environment:** [Interactive NotebookLM Context](https://notebooklm.google.com/notebook/fe46aeba-3a33-4345-a5fe-f657e5f0e71c)
+### 🛠️ Research Methodology: AI-Augmented Legal Synthesis
+All analyses in this module are synthesized using a private **RAG (Retrieval-Augmented Generation)** environment to bridge complex legal theory with technical implementation.
+
+* **Environment:** Developed a high-context knowledge base in **NotebookLM**, indexing 100+ academic legal texts, EU regulatory frameworks, and Swedish/International case law.
+* **Process:** This private "Digital Twin" of the curriculum is used to stress-test technical agentic workflows (like n8n and other agentic based methods) against legal requirements such as the **EU AI Act** and **GDPR**.
+* **IP Policy:** To respect Lund University's academic copyrights, the raw research environment remains private. Derived strategic assets and compliance reports are available in this repository.
 
 ### 📂 Repository Access
 * **Module 1 Master Folder:** [Module 1: AI & Law Assets (Google Drive)](https://drive.google.com/drive/folders/1LN_Mna-sNwcfHgulgU3gZ351Ai_V_ZLJ?usp=drive_link)
