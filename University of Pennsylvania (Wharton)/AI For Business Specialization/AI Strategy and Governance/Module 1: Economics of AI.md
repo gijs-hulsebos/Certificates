@@ -29,8 +29,7 @@ This module analyzes the economic foundations of AI as a **General Purpose Techn
 | [![Audio](https://img.shields.io/badge/Listen_to_Audio-121212?style=for-the-badge&logo=googlepodcasts&logoColor=white)](https://drive.google.com/file/d/1LhgF_oTsQPmrHrk5hpHj3xflWoAPPkgI/view?usp=drive_link) | [![Report](https://img.shields.io/badge/Read_Report-121212?style=for-the-badge&logo=adobeacrobatreader&logoColor=red)](https://drive.google.com/file/d/1Mzkz1I4AoTldNpsZHETiCMe3v9uyX7bz/view?usp=drive_link) | [![Slides](https://img.shields.io/badge/View_Slides-121212?style=for-the-badge&logo=googlepowerpoint&logoColor=orange)](https://docs.google.com/presentation/d/1MVhjyVJvXul2qRspGUbQwvx6aZLu6Z_c/edit?usp=drive_link) | [![Mind Map](https://img.shields.io/badge/View_Mind_Map-121212?style=for-the-badge&logo=googledrive&logoColor=blue)](https://drive.google.com/file/d/1uaZs-dT1CB1yADbQ2ngAvREdT7bRVJ3M/view?usp=drive_link) |
 
 > [!TIP]
-> **View all assets for this module:** [📂 Module 1: Economics of AI - Wharton Assets Folder](https://drive.google.com/drive/folders/1FI0yl2EQ_ZxBD4_-eAJhxb dgpEPhP8hC?usp=drive_link)
-
+> **View all assets for this module:** [📂 Module 1: Economics of AI - Wharton Assets Folder](https://drive.google.com/drive/folders/1FI0yI2EQ_ZxBD4_-eAJhxbdgpEGhP8hC?usp=drive_link)
 ---
 
 ### 🛠️ Research Methodology: AI-Augmented Strategic Synthesis
@@ -41,7 +40,7 @@ All analyses in this module are synthesized using a private **RAG (Retrieval-Aug
 * **IP Policy:** To respect Wharton's academic copyrights, the raw research environment remains private. Derived strategic assets and intelligence reports are available in this repository.
 
 ### 📂 Repository Access
-* **Course Master Archive:** [Wharton AI Strategy - All Notes (Google Drive)](https://drive.google.com/drive/folders/1FI0yl2EQ_ZxBD4_-eAJhxb dgpEPhP8hC?usp=drive_link)
+* **Course Master Archive:** [Wharton AI Strategy and Governance - All Notes (Google Drive)](https://drive.google.com/drive/folders/1bGi2f9a3paeX7r4Yo68FWYHoqc1wkwIf?usp=drive_link)
 
 ---
 
