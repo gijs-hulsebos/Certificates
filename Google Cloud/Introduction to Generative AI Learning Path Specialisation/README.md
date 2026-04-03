@@ -1,1 +1,1 @@
-https://www.coursera.org/specializations/introduction-to-generative-ai#courses
+In Progress (general AI literacy) - https://www.coursera.org/specializations/introduction-to-generative-ai#courses
