@@ -1,1 +1,1 @@
-.gitkeep
+Course Finished - https://www.coursera.org/learn/wharton-ai-strategy-governance

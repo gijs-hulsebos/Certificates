@@ -1,1 +1,1 @@
-.gitkeep
+In progress (almost finished) - https://www.coursera.org/specializations/ai-for-business-wharton
