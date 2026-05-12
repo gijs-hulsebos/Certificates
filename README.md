@@ -29,8 +29,8 @@ Building a comprehensive AI portfolio specializing in bridging the gap between c
 | **Google Cloud** | [Workspace with Gemini](./Google%20Cloud/Gemini%20for%20the%20Google%20Workspace%20Specialisation) | AI Productivity, Enterprise Integration |
 | **Google** | [AI Professional](./Google/AI-Professional) | Prompt Engineering, GenAI Workflows |
 | | ↳ [Prompting Essentials](./Google/Google%20Prompting%20Essentials%20Specialization) | Logic-based AI Interaction |
-| **Duke University** | [View Folder](./Duke%20University) | FinTech, AI Foundations & Applications |
-| **Lund University** | [View Folder](./Lund%20University) | AI Ethics, Law and Digital Strategy |
+| **Duke University** | [In Progress](./Duke%20University) | FinTech, AI Foundations & Applications |
+| **Lund University** | [Planned](./Lund%20University) | AI Ethics, Law and Digital Strategy |
 
 ---
 
