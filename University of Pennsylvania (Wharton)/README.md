@@ -15,37 +15,29 @@
 ---
 
 ### 🏛️ University of Pennsylvania (Wharton)
-Education and credentials issued by **The Wharton School**, focusing on the intersection of Artificial Intelligence, business transformation, and data-driven decision making.
+
+Business-focused AI education covering strategy, governance, people management, marketing, finance, and implementation.
 
 ---
 
-### 🎓 Featured Education
-This directory contains professional specializations and courses designed to master the strategic application of AI in an enterprise environment.
+### 🎓 Programs and Credentials
 
-| Program | Type | Status |
+| Program / Collection | Status | Path |
 | :--- | :--- | :--- |
-| **[AI For Business Specialization](./AI%20For%20Business%20Specialization)** | Professional Specialization | ✅ Completed |
+| **AI For Business Specialization** | ✅ Completed - certificate available | [Folder](./AI%20For%20Business%20Specialization) |
 
 ---
 
-### 🎯 Strategic Objectives
-Integrating Wharton’s business-centric approach into my **AI Automation workflows** allows for:
-* **ROI-Driven Automation:** Designing agents that don't just "work," but actively contribute to business growth and cost reduction.
-* **Ethical AI Governance:** Implementing workflows with a deep understanding of the legal and ethical frameworks required by enterprise-level organizations.
-* **Operational Excellence:** Leveraging AI to optimize HR, Finance, and Marketing functions through intelligent orchestration.
+### 💡 Professional Relevance
 
----
-
-### 📂 Directory Navigation
-* **[AI For Business Specialization](./AI%20For%20Business%20Specialization):** Includes deep dives into People Management, Marketing, Finance, and AI Strategy.
+These credentials document applied learning in AI, automation, governance, and modern digital workflows.
 
 ---
 
 ### 🌐 Let's Connect
-Interested in how I apply Ivy League business strategy to autonomous agentic workflows?
 
-* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

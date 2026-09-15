@@ -14,42 +14,33 @@
 
 ---
 
-### ☁️ Google Cloud Training & Certifications
-Detailed technical training and professional specializations focused on **Google Cloud Platform (GCP)**, Generative AI, and Enterprise Workspace integration.
+### 🏛️ Google Cloud Training and Certifications
+
+Learning paths and standalone credentials covering generative AI, cloud transformation, Workspace productivity, and AI security.
 
 ---
 
-### 🎓 Learning Paths
-These credentials track my proficiency in deploying AI solutions within the Google ecosystem—from high-level digital transformation to granular LLM implementation.
+### 🎓 Programs and Credentials
 
-| Program / Specialization | Key Focus Area | Link |
+| Program / Collection | Status | Path |
 | :--- | :--- | :--- |
-| **Gemini for Google Workspace** | AI-driven productivity & enterprise automation. | [Folder](./Gemini%20for%20the%20Google%20Workspace%20Specialisation) |
-| **Intro to Generative AI** | LLM fundamentals, attention mechanisms, and image generation. | [Folder](./Introduction%20to%20Generative%20AI%20Learning%20Path%20Specialisation) |
-| **Digital Transformation** | Cloud strategy, ML business value, and data-driven culture. | [Folder](./Digital%20Transformation%20Using%20AI%20and%20ML%20with%20Google%20Cloud) |
-| **Misc Google Credentials** | Micro-credentials and foundational cloud skills. | [Folder](./Misc%20Certificates) |
+| **Digital Transformation Using AI and ML with Google Cloud Specialization** | ✅ Courses completed - program certificate pending | [Folder](./Digital%20Transformation%20Using%20AI%20and%20ML%20with%20Google%20Cloud%20Specialization) |
+| **Google Workspace with Gemini Specialization** | ✅ Completed - certificate available | [Folder](./Google%20Workspace%20with%20Gemini%20Specialization) |
+| **Introduction to Generative AI Learning Path Specialization** | ✅ Completed - certificate available | [Folder](./Introduction%20to%20Generative%20AI%20Learning%20Path%20Specialization) |
+| **Miscellaneous Certificates** | ✅ Certificate available | [Folder](./Misc%20Certificates) |
 
 ---
 
-### 🛠️ Why Google Cloud?
-In my **AI Automation** practice, the Google Cloud stack is essential for:
-* **Enterprise Integration:** Utilizing the Gemini API and Vertex AI within existing Google Workspace environments.
-* **Scalable Infrastructure:** Deploying Python-based agents and automation backends that require robust cloud security.
-* **GenAI Expertise:** Moving beyond simple prompting into the architectural understanding of how models are trained and deployed on GCP.
+### 💡 Professional Relevance
 
----
-
-### 📂 Navigation
-* **[GenAI Path](./Introduction%20to%20Generative%20AI%20Learning%20Path%20Specialisation):** For a deep dive into the technical side of how LLMs work.
-* **[Workspace Specialization](./Gemini%20for%20the%20Google%20Workspace%20Specialisation):** For practical examples of integrating AI into daily business operations.
+These credentials document applied learning in AI, automation, governance, and modern digital workflows.
 
 ---
 
 ### 🌐 Let's Connect
-Building scalable AI solutions often starts in the cloud. Let's discuss how I can help your organization.
 
-* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

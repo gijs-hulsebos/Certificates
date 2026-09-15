@@ -15,33 +15,31 @@
 ---
 
 ### 🎓 Google: Miscellaneous AI Certificates
-A collection of specialized micro-credentials and short courses from **Google**. These certifications focus on specific AI applications, career acceleration, and staying updated with the rapidly evolving AI landscape.
+
+A collection of focused Google courses covering career workflows and continuous AI development.
 
 ---
 
-### 📂 Featured Micro-Credentials
-This directory tracks individual courses that contribute to a well-rounded AI literacy and professional skillset.
+### 📚 Credentials
 
-| Course | Focus Area | Path |
+| Course | Status | Path |
 | :--- | :--- | :--- |
-| **Accelerate Your Job Search with AI** | Human workflow optimization & personal branding. | [Folder](./Accelerate%20Your%20Job%20Search%20with%20AI) |
-| **Stay Ahead in the AI curve** | Industry trends, continuous learning, and future-proofing. | [Folder](./Stay%20Ahead%20in%20the%20AI%20curve) |
+| **Manage Your Job Applications with AI** | ✅ Completed - certificate available | [Folder](./Manage%20Your%20Job%20Applications%20with%20AI) |
+| **Prepare and Practice for Interviews with AI** | ✅ Completed - certificate available | [Folder](./Prepare%20and%20Practice%20for%20Interviews%20with%20AI) |
+| **Stay Ahead of the AI Curve** | ✅ Completed - certificate available | [Folder](./Stay%20Ahead%20of%20the%20AI%20Curve) |
 
 ---
 
-### 📈 Why Continuous Learning?
-In the field of **AI Automation**, the "half-life" of knowledge is short. I use these specialized courses to:
-* **Identify Emerging Trends:** Recognizing new tools and methodologies before they become mainstream.
-* **Sharpen the Saw:** Continuously refining my ability to integrate AI into both personal and professional workflows.
-* **Agile Skillsets:** Maintaining the flexibility to pivot as new LLM capabilities (like Gemini updates) are released.
+### 💡 Professional Relevance
+
+These courses apply AI to practical career management, communication, and continuous professional development.
 
 ---
 
 ### 🌐 Let's Connect
-The best way to stay ahead is to build. Let's discuss how we can implement the latest AI insights into your projects.
 
-* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

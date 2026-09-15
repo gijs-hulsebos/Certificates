@@ -14,38 +14,30 @@
 
 ---
 
-### 🕊️ Anthropic | AI Orchestration & Tooling
-Specialized training and credentials from **Anthropic**, focused on building robust, tool-augmented AI systems and mastering the **Model Context Protocol (MCP)**.
+### 🏛️ Anthropic
+
+Official training focused on AI orchestration, tool integration, and the Model Context Protocol.
 
 ---
 
-### 🎓 Featured Education
-The focus here is on creating "Agentic workflows" that allow LLMs to safely and efficiently interact with external data sources and local tools.
+### 🎓 Programs and Credentials
 
-| Program | Core Competencies | Link |
+| Program / Collection | Status | Path |
 | :--- | :--- | :--- |
-| **Introduction to MCP** | MCP Architecture, Tool-use, Data Connectors, Security. | [Folder](./Introduction%20to%20Model%20Context%20Protocol) |
+| **Introduction to Model Context Protocol** | ✅ Completed - certificate available | [Folder](./Introduction%20to%20Model%20Context%20Protocol) |
 
 ---
 
-### 🛠️ The Power of MCP in Automation
-As an **AI Automation Engineer**, mastering Anthropic's ecosystem is vital for:
-* **Standardized Tool-Use:** Leveraging MCP to create a universal interface between LLMs (like Claude 3.5 Sonnet) and various data sources (Google Drive, Slack, Databases).
-* **Contextual Intelligence:** Building agents that don't just "chat," but have a deep, structured understanding of the specific business context they operate in.
-* **Safe & Scalable Agents:** Implementing "Human-in-the-loop" and safety-first protocols that are core to the Anthropic philosophy.
+### 💡 Professional Relevance
 
----
-
-### 📂 Directory Navigation
-* **[Introduction to Model Context Protocol](./Introduction%20to%20Model%20Context%20Protocol):** My deep dive into the official open-source standard for linking AI models with data.
+These credentials document applied learning in AI, automation, governance, and modern digital workflows.
 
 ---
 
 ### 🌐 Let's Connect
-The future of AI is agentic. Let's build the systems that make it happen.
 
-* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 
