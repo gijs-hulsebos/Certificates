@@ -14,36 +14,58 @@
 
 ---
 
-### 🎓 Anthropic: Introduction to Model Context Protocol
+### 🏫 Anthropic: Introduction to Model Context Protocol
 
-This course is part of **Anthropic Academy** and develops practical knowledge for responsible, effective AI-enabled work.
+Introduces the Model Context Protocol architecture and hands-on development of MCP servers and clients using tools, resources, and prompts.
 
----
-
-### 📚 Course Focus
-
-Model Context Protocol architecture, tool integration, data connections, and safe agent interoperability.
+Official course information: [Coursera course page](https://www.coursera.org/learn/introduction-to-model-context-protocol).
 
 ---
 
-### ✅ Completed - Certificate Available
+### 🎯 Course Overview
 
-The official course certificate issued by **Anthropic** through Coursera is available here:
+This directory documents the verified course credential and the official module structure published by Coursera. Module notes are concise, factual portfolio summaries rather than reproductions of protected course materials.
+
+---
+
+### 📚 Modules
+
+| Module | Topics |
+| :--- | :--- |
+| [Module 1: Introduction](./Module%201%20-%20Introduction.md) | MCP purpose and architecture; clients and servers; client-server communication |
+| [Module 2: Hands-on with MCP servers](./Module%202%20-%20Hands-on%20with%20MCP%20servers.md) | Python project setup; defining tools; testing with MCP Inspector |
+| [Module 3: Connecting with MCP clients](./Module%203%20-%20Connecting%20with%20MCP%20clients.md) | Client implementation; resources; prompts; complete application integration |
+| [Module 4: Assessment and Wrap Up](./Module%204%20-%20Assessment%20and%20Wrap%20Up.md) | Review of MCP concepts; applying client-server, tool, resource, and prompt knowledge |
+
+---
+
+### 🧠 Key Learnings
+
+- Explain the course's core concepts using the issuer's terminology.
+- Connect the module topics to practical decisions and workflows.
+- Evaluate relevant AI or digital-work practices with attention to their capabilities and limitations.
+
+---
+
+### 🛠 Skills
+
+- Model Context Protocol
+- AI integrations
+- Tool calling
+- Python SDK
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Course Certificate](./Introduction%20to%20Model%20Context%20Protocol%20-%20Coursera%200T1UB7FHM21J.pdf)**
 
 ---
 
-### 💡 Professional Relevance
-
-This learning supports my work as an **AI Automation Engineer** by connecting core concepts to reliable, scalable, and human-centered automation workflows.
-
----
-
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

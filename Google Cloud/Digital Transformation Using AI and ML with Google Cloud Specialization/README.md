@@ -14,37 +14,48 @@
 
 ---
 
-### 🎓 Google Cloud: Digital Transformation Using AI and ML with Google Cloud Specialization
+### 🏫 Google Cloud: Digital Transformation Using AI and ML with Google Cloud Specialization
 
-This specialization focuses on the organizational, infrastructure, data, and application changes required to create value with cloud technology and AI.
+A program on cloud-enabled business transformation, infrastructure modernization, and application modernization.
+
+Official program information: [Coursera program page](https://www.coursera.org/specializations/digital-transformation-using-ai-ml-google-cloud).
 
 ---
 
 ### 📚 Course Breakdown
 
-| Course | Status | Path |
+| Course | Focus | Path |
 | :--- | :--- | :--- |
-| **Digital Transformation with Google Cloud** | ✅ Completed - certificate available | [Folder](./Digital%20Transformation%20with%20Google%20Cloud) |
-| **Modernize Infrastructure and Applications with Google Cloud** | ✅ Completed - certificate available | [Folder](./Modernize%20Infrastructure%20and%20Applications%20with%20Google%20Cloud) |
+| **Digital Transformation with Google Cloud** | Course documentation and verified credential. | [Folder](./Digital%20Transformation%20with%20Google%20Cloud) |
+| **Modernize Infrastructure and Applications with Google Cloud** | Course documentation and verified credential. | [Folder](./Modernize%20Infrastructure%20and%20Applications%20with%20Google%20Cloud) |
 
 ---
 
-### ⏳ Program Certificate Pending
+### 🧠 Program Themes and Skills
 
-The completed course certificates are stored individually. The over-arching program certificate is not yet available, so no placeholder PDF is included.
+- Digital transformation
+- Cloud infrastructure
+- Application modernization
+- Google Cloud
 
 ---
 
-### 💡 Strategic Alignment
+### ✅ Verified Credential
 
-This program strengthens the combination of technical AI literacy, responsible implementation, and measurable business value required for production-grade AI automation.
+No overarching program certificate is currently stored in this repository.
+
+---
+
+### ℹ️ Curriculum Note
+
+The repository currently contains the two completed course credentials shown below. The overarching program certificate is not present.
 
 ---
 
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

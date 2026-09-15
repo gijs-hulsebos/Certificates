@@ -14,36 +14,61 @@
 
 ---
 
-### 🎓 Google Cloud: Gemini in Google Meet
+### 🏫 Google Cloud: Gemini in Google Meet
 
-This course is part of **Google Workspace with Gemini Specialization** and develops practical knowledge for responsible, effective AI-enabled work.
+Explores Gemini-supported meeting preparation, participation, and follow-up in Google Meet.
 
----
-
-### 📚 Course Focus
-
-Meeting preparation, collaboration, notes, and follow-up workflows.
+Official course information: [Coursera course page](https://www.coursera.org/learn/duet-ai-in-google-meet).
 
 ---
 
-### ✅ Completed - Certificate Available
+### 🎯 Course Overview
 
-The official course certificate issued by **Google Cloud** through Coursera is available here:
+This directory documents the verified course credential and the official module structure published by Coursera. Module notes are concise, factual portfolio summaries rather than reproductions of protected course materials.
+
+---
+
+### 📚 Modules
+
+| Module | Topics |
+| :--- | :--- |
+| [Module 1: Gemini in Google Meet](./Module%201%20-%20Gemini%20in%20Google%20Meet.md) | Core Gemini in Google Meet workflows; AI-assisted productivity; review and refinement |
+
+---
+
+### 🧠 Key Learnings
+
+- Explain the course's core concepts using the issuer's terminology.
+- Connect the module topics to practical decisions and workflows.
+- Evaluate relevant AI or digital-work practices with attention to their capabilities and limitations.
+
+---
+
+### 🛠 Skills
+
+- Google Workspace
+- Gemini
+- AI-assisted productivity
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Course Certificate](./Google%20Cloud%20Gemini%20in%20Google%20Meet%20Coursera%20J3XWSC4VEDDG.pdf)**
-
 ---
 
-### 💡 Professional Relevance
+### 🎓 Part of
 
-This learning supports my work as an **AI Automation Engineer** by connecting core concepts to reliable, scalable, and human-centered automation workflows.
+This course is part of the **Google Workspace with Gemini Specialization**.
+
+👉 [View the full program](../README.md)
 
 ---
 
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

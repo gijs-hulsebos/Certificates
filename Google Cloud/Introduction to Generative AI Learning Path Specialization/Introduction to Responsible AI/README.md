@@ -14,36 +14,62 @@
 
 ---
 
-### 🎓 Google Cloud: Introduction to Responsible AI
+### 🏫 Google Cloud: Introduction to Responsible AI
 
-This course is part of **Introduction to Generative AI Learning Path Specialization** and develops practical knowledge for responsible, effective AI-enabled work.
+Introduces responsible AI, its organizational importance, and Google's approach to applying AI principles in products.
 
----
-
-### 📚 Course Focus
-
-Responsible AI principles, fairness, accountability, transparency, and governance.
+Official course information: [Coursera course page](https://www.coursera.org/learn/introduction-to-responsible-ai).
 
 ---
 
-### ✅ Completed - Certificate Available
+### 🎯 Course Overview
 
-The official course certificate issued by **Google Cloud** through Coursera is available here:
+This directory documents the verified course credential and the official module structure published by Coursera. Module notes are concise, factual portfolio summaries rather than reproductions of protected course materials.
+
+---
+
+### 📚 Modules
+
+| Module | Topics |
+| :--- | :--- |
+| [Module 1: Introduction to Responsible AI](./Module%201%20-%20Introduction%20to%20Responsible%20AI.md) | Responsible-AI foundations; organizational need; Google AI principles and implementation |
+
+---
+
+### 🧠 Key Learnings
+
+- Explain the course's core concepts using the issuer's terminology.
+- Connect the module topics to practical decisions and workflows.
+- Evaluate relevant AI or digital-work practices with attention to their capabilities and limitations.
+
+---
+
+### 🛠 Skills
+
+- Responsible AI
+- AI principles
+- AI governance
+- Artificial intelligence
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Course Certificate](./Google%20Cloud%20Introduction%20to%20Responsible%20AI%20Coursera%20ZI74DZ55V74T.pdf)**
-
 ---
 
-### 💡 Professional Relevance
+### 🎓 Part of
 
-This learning supports my work as an **AI Automation Engineer** by connecting core concepts to reliable, scalable, and human-centered automation workflows.
+This course is part of the **Introduction to Generative AI Learning Path Specialization**.
+
+👉 [View the full program](../README.md)
 
 ---
 
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

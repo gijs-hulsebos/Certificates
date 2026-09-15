@@ -14,45 +14,55 @@
 
 ---
 
-### 🎓 Google Cloud: Google Workspace with Gemini Specialization
+### 🏫 Google Cloud: Google Workspace with Gemini Specialization
 
-This eight-course specialization develops practical Gemini skills across Gmail, Docs, Drive, Meet, Sheets, Slides, and Google Vids.
+A practical program for applying Gemini across Gmail, Docs, Drive, Meet, Sheets, Slides, and Google Vids.
+
+Official program information: [Coursera program page](https://www.coursera.org/specializations/gemini-for-google-workspace).
 
 ---
 
 ### 📚 Course Breakdown
 
-| Course | Status | Path |
+| Course | Focus | Path |
 | :--- | :--- | :--- |
-| **Introduction to Google Workspace with Gemini** | ✅ Completed - certificate available | [Folder](./Introduction%20to%20Google%20Workspace%20with%20Gemini) |
-| **Gemini in Gmail** | ✅ Completed - certificate available | [Folder](./Gemini%20in%20Gmail) |
-| **Gemini in Google Docs** | ✅ Completed - certificate available | [Folder](./Gemini%20in%20Google%20Docs) |
-| **Gemini in Google Drive** | ✅ Completed - certificate available | [Folder](./Gemini%20in%20Google%20Drive) |
-| **Gemini in Google Meet** | ✅ Completed - certificate available | [Folder](./Gemini%20in%20Google%20Meet) |
-| **Gemini in Google Sheets** | ✅ Completed - certificate available | [Folder](./Gemini%20in%20Google%20Sheets) |
-| **Gemini in Google Slides** | ✅ Completed - certificate available | [Folder](./Gemini%20in%20Google%20Slides) |
-| **Create Engaging Video with Google Vids** | ✅ Completed - certificate available | [Folder](./Create%20Engaging%20Video%20with%20Google%20Vids) |
+| **Create Engaging Video with Google Vids** | Course documentation and verified credential. | [Folder](./Create%20Engaging%20Video%20with%20Google%20Vids) |
+| **Gemini in Gmail** | Course documentation and verified credential. | [Folder](./Gemini%20in%20Gmail) |
+| **Gemini in Google Docs** | Course documentation and verified credential. | [Folder](./Gemini%20in%20Google%20Docs) |
+| **Gemini in Google Drive** | Course documentation and verified credential. | [Folder](./Gemini%20in%20Google%20Drive) |
+| **Gemini in Google Meet** | Course documentation and verified credential. | [Folder](./Gemini%20in%20Google%20Meet) |
+| **Gemini in Google Sheets** | Course documentation and verified credential. | [Folder](./Gemini%20in%20Google%20Sheets) |
+| **Gemini in Google Slides** | Course documentation and verified credential. | [Folder](./Gemini%20in%20Google%20Slides) |
+| **Introduction to Google Workspace with Gemini** | Course documentation and verified credential. | [Folder](./Introduction%20to%20Google%20Workspace%20with%20Gemini) |
 
 ---
 
-### ✅ Completed - Verified Credential
+### 🧠 Program Themes and Skills
 
-The official program certificate issued by **Google Cloud** through Coursera is available here:
+- Google Workspace
+- Gemini
+- AI-assisted communication
+- Document and data productivity
+- Video creation
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Full Program Certificate](./Google%20Workspace%20with%20Gemini%20Coursera%206A9GRRBW81WM.pdf)**
 
 ---
 
-### 💡 Strategic Alignment
+### ℹ️ Curriculum Note
 
-This program strengthens the combination of technical AI literacy, responsible implementation, and measurable business value required for production-grade AI automation.
+The archived March 2026 credential verifies the eight completed courses in this repository. Coursera later expanded the live program to nine courses, including Gemini in Google Chat, and renamed the foundations course; those later catalog changes do not alter the archived credential.
 
 ---
 
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

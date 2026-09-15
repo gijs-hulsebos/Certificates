@@ -14,36 +14,62 @@
 
 ---
 
-### 🎓 Google Cloud: Introduction to Large Language Models
+### 🏫 Google Cloud: Introduction to Large Language Models
 
-This course is part of **Introduction to Generative AI Learning Path Specialization** and develops practical knowledge for responsible, effective AI-enabled work.
+Explains large language models, their use cases, prompt tuning, and Google tools for generative-AI development.
 
----
-
-### 📚 Course Focus
-
-Large language model concepts, use cases, prompt tuning, and model lifecycle fundamentals.
+Official course information: [Coursera course page](https://www.coursera.org/learn/introduction-to-large-language-models).
 
 ---
 
-### ✅ Completed - Certificate Available
+### 🎯 Course Overview
 
-The official course certificate issued by **Google Cloud** through Coursera is available here:
+This directory documents the verified course credential and the official module structure published by Coursera. Module notes are concise, factual portfolio summaries rather than reproductions of protected course materials.
+
+---
+
+### 📚 Modules
+
+| Module | Topics |
+| :--- | :--- |
+| [Module 1: Introduction to Large Language Models](./Module%201%20-%20Introduction%20to%20Large%20Language%20Models.md) | LLM foundations; use cases; prompt tuning; Google generative-AI development tools |
+
+---
+
+### 🧠 Key Learnings
+
+- Explain the course's core concepts using the issuer's terminology.
+- Connect the module topics to practical decisions and workflows.
+- Evaluate relevant AI or digital-work practices with attention to their capabilities and limitations.
+
+---
+
+### 🛠 Skills
+
+- Large language models
+- Prompt tuning
+- Generative AI
+- AI development tools
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Course Certificate](./Google%20Cloud%20Introduction%20to%20Large%20Language%20Models%20Coursera%20DKFPN0J87QIC.pdf)**
-
 ---
 
-### 💡 Professional Relevance
+### 🎓 Part of
 
-This learning supports my work as an **AI Automation Engineer** by connecting core concepts to reliable, scalable, and human-centered automation workflows.
+This course is part of the **Introduction to Generative AI Learning Path Specialization**.
+
+👉 [View the full program](../README.md)
 
 ---
 
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

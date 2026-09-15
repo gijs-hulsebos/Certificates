@@ -14,41 +14,44 @@
 
 ---
 
-### 🎓 Google Cloud: Introduction to Generative AI Learning Path Specialization
+### 🏫 Google Cloud: Introduction to Generative AI Learning Path Specialization
 
-This four-course learning path covers generative AI, large language models, and the responsible application of AI principles.
+A learning path covering generative AI, large language models, responsible AI, and the operational application of AI principles.
+
+Official program information: [Coursera program page](https://www.coursera.org/specializations/introduction-to-generative-ai).
 
 ---
 
 ### 📚 Course Breakdown
 
-| Course | Status | Path |
+| Course | Focus | Path |
 | :--- | :--- | :--- |
-| **Introduction to Generative AI** | ✅ Completed - certificate available | [Folder](./Introduction%20to%20Generative%20AI) |
-| **Introduction to Large Language Models** | ✅ Completed - certificate available | [Folder](./Introduction%20to%20Large%20Language%20Models) |
-| **Introduction to Responsible AI** | ✅ Completed - certificate available | [Folder](./Introduction%20to%20Responsible%20AI) |
-| **Responsible AI - Applying AI Principles with Google Cloud** | ✅ Completed - certificate available | [Folder](./Responsible%20AI%20-%20Applying%20AI%20Principles%20with%20Google%20Cloud) |
+| **Introduction to Generative AI** | Course documentation and verified credential. | [Folder](./Introduction%20to%20Generative%20AI) |
+| **Introduction to Large Language Models** | Course documentation and verified credential. | [Folder](./Introduction%20to%20Large%20Language%20Models) |
+| **Introduction to Responsible AI** | Course documentation and verified credential. | [Folder](./Introduction%20to%20Responsible%20AI) |
+| **Responsible AI - Applying AI Principles with Google Cloud** | Course documentation and verified credential. | [Folder](./Responsible%20AI%20-%20Applying%20AI%20Principles%20with%20Google%20Cloud) |
 
 ---
 
-### ✅ Completed - Verified Credential
+### 🧠 Program Themes and Skills
 
-The official program certificate issued by **Google Cloud** through Coursera is available here:
+- Generative AI
+- Large language models
+- Responsible AI
+- AI governance
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Full Program Certificate](./Google%20Cloud%20Introduction%20to%20Generative%20AI%20Learning%20Path%20Coursera%20ATFILWOEJURF.pdf)**
 
 ---
 
-### 💡 Strategic Alignment
-
-This program strengthens the combination of technical AI literacy, responsible implementation, and measurable business value required for production-grade AI automation.
-
----
-
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 
