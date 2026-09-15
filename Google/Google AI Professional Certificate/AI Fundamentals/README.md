@@ -60,6 +60,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 27, 2026
+
 👉 **[View Course Certificate](./Google%20AI%20Fundamentals%20Coursera%20QQAQ6JQVLYV2.pdf)**
 ---
 

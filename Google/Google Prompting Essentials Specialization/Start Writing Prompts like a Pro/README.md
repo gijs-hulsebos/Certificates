@@ -54,6 +54,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 29, 2026
+
 👉 **[View Course Certificate](./Google%20Start%20Writing%20Prompts%20like%20a%20Pro%20Coursera%20YFER20XG6RI6.pdf)**
 ---
 

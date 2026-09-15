@@ -57,6 +57,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 30, 2026
+
 👉 **[View Course Certificate](./Google%20Cloud%20Introduction%20to%20Security%20in%20the%20World%20of%20AI%20Coursera%2069ZJQ4E3IT9F.pdf)**
 
 ---

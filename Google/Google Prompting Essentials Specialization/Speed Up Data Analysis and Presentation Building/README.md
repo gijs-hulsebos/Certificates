@@ -54,6 +54,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 29, 2026
+
 👉 **[View Course Certificate](./Google%20Speed%20Up%20Data%20Analysis%20and%20Presentation%20Building%20Coursera%20LM51RJ1A5A7D.pdf)**
 ---
 

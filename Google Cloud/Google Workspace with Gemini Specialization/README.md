@@ -49,6 +49,8 @@ Official program information: [Coursera program page](https://www.coursera.org/s
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 28, 2026
+
 👉 **[View Full Program Certificate](./Google%20Workspace%20with%20Gemini%20Coursera%206A9GRRBW81WM.pdf)**
 
 ---

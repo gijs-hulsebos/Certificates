@@ -58,6 +58,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** April 3, 2026
+
 👉 **[View Course Certificate](./Wharton%20AI%20Applications%20in%20Marketing%20and%20Finance%20Coursera%2070ZDPRIR6241.pdf)**
 ---
 

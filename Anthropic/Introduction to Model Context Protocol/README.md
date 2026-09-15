@@ -58,6 +58,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 29, 2026
+
 👉 **[View Course Certificate](./Introduction%20to%20Model%20Context%20Protocol%20-%20Coursera%200T1UB7FHM21J.pdf)**
 
 ---

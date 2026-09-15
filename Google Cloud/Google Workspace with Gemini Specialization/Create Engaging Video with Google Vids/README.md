@@ -54,6 +54,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 28, 2026
+
 👉 **[View Course Certificate](./Google%20Cloud%20Create%20Engaging%20Video%20with%20Google%20Vids%20Coursera%201EI6S38PUKSM.pdf)**
 ---
 

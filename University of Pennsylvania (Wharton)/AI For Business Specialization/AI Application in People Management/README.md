@@ -58,6 +58,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** April 5, 2026
+
 👉 **[View Course Certificate](./Wharton%20AI%20Applications%20in%20People%20Management%20Coursera%20B2FF6S83H35I.pdf)**
 ---
 

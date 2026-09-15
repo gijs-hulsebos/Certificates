@@ -58,6 +58,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 30, 2026
+
 👉 **[View Course Certificate](./Stay%20Ahead%20of%20the%20AI%20Curve%20Coursera%2007DJMIRTM1J6.pdf)**
 ---
 

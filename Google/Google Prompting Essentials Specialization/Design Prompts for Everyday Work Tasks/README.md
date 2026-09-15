@@ -54,6 +54,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 29, 2026
+
 👉 **[View Course Certificate](./Google%20Design%20Prompts%20for%20Everyday%20Work%20Tasks%20Coursera%20UW436PTF8EEO.pdf)**
 ---
 

@@ -55,6 +55,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 31, 2026
+
 👉 **[View Course Certificate](./Google%20Cloud%20Introduction%20to%20Responsible%20AI%20Coursera%20ZI74DZ55V74T.pdf)**
 ---
 

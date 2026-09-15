@@ -57,6 +57,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 27, 2026
+
 👉 **[View Course Certificate](./Google%20AI%20for%20Research%20and%20Insights%20Coursera%2094B506GPM8GH.pdf)**
 ---
 

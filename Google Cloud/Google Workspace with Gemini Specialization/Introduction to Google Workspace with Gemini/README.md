@@ -54,6 +54,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 28, 2026
+
 👉 **[View Course Certificate](./Google%20Cloud%20Introduction%20to%20Google%20Workspace%20with%20Gemini%20Coursera%20JUJWOA355KZB.pdf)**
 ---
 

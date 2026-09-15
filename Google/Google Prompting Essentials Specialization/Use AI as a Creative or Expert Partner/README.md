@@ -54,6 +54,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 29, 2026
+
 👉 **[View Course Certificate](./Google%20Use%20AI%20as%20a%20Creative%20or%20Expert%20Partner%20Coursera%207S5FDZXJEUPN.pdf)**
 ---
 

@@ -58,6 +58,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** April 1, 2026
+
 👉 **[View Course Certificate](./Wharton%20AI%20Strategy%20and%20Governance%20Coursera%20CRS7ZY7HN0PS.pdf)**
 ---
 

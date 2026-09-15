@@ -58,6 +58,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 27, 2026
+
 👉 **[View Course Certificate](./Google%20AI%20for%20Writing%20and%20Communicating%20Coursera%205Q8HA8YG8WME.pdf)**
 ---
 

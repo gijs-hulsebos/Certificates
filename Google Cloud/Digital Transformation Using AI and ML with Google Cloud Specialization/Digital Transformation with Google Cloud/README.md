@@ -58,6 +58,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 28, 2026
+
 👉 **[View Course Certificate](./Digital%20Transformation%20with%20Google%20Cloud%20-%20Coursera%20ID5L1XRO99U4.pdf)**
 ---
 

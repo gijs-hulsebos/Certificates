@@ -48,6 +48,8 @@ Official program information: [Coursera program page](https://www.coursera.org/p
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 27, 2026
+
 👉 **[View Full Program Certificate](./Google%20AI%20Coursera%20AJT88YN6XUS4.pdf)**
 
 ---

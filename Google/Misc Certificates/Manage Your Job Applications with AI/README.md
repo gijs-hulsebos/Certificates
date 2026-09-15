@@ -56,6 +56,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 29, 2026
+
 👉 **[View Course Certificate](./Google%20Manage%20Your%20Job%20Applications%20with%20AI%20Coursera%20KDOXAUGRNMPH.pdf)**
 ---
 

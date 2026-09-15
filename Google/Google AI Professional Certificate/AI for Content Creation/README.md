@@ -57,6 +57,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 27, 2026
+
 👉 **[View Course Certificate](./Google%20AI%20for%20Content%20Creation%20-%20Coursera%20SSGFR6E2QNWB.pdf)**
 ---
 

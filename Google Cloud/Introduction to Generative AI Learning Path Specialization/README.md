@@ -44,6 +44,8 @@ Official program information: [Coursera program page](https://www.coursera.org/s
 
 ### ✅ Verified Credential
 
+**Completion Date:** April 5, 2026
+
 👉 **[View Full Program Certificate](./Google%20Cloud%20Introduction%20to%20Generative%20AI%20Learning%20Path%20Coursera%20ATFILWOEJURF.pdf)**
 
 ---

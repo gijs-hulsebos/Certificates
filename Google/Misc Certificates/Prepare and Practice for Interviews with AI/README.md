@@ -59,6 +59,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 29, 2026
+
 👉 **[View Course Certificate](./Google%20Prepare%20and%20Practice%20for%20Interviews%20with%20AI%20Coursera%204KJCH6LZRM1J.pdf)**
 ---
 

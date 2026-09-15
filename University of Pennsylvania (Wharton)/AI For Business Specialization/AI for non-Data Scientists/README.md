@@ -59,6 +59,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** April 5, 2026
+
 👉 **[View Course Certificate](./Wharton%20AI%20Fundamentals%20for%20Non-Data%20Scientists%20Coursera%20RPZ081YR3H0C.pdf)**
 ---
 

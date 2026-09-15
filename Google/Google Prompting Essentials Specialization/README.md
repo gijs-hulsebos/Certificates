@@ -44,6 +44,8 @@ Official program information: [Coursera program page](https://www.coursera.org/s
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 29, 2026
+
 👉 **[View Full Program Certificate](./Google%20Prompting%20Essentials%20Coursera%2098XKSYTBB3GX.pdf)**
 
 ---

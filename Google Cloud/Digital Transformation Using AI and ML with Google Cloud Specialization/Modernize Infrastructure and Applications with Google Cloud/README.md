@@ -58,6 +58,8 @@ This directory documents the verified course credential and the official module 
 
 ### ✅ Verified Credential
 
+**Completion Date:** March 28, 2026
+
 👉 **[View Course Certificate](./Modernize%20Infrastructure%20and%20Applications%20with%20Google%20Cloud%20-%20Coursera%209D8T3ZSD484R.pdf)**
 ---
 

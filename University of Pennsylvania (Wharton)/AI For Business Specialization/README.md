@@ -44,6 +44,8 @@ Official program information: [Coursera program page](https://www.coursera.org/s
 
 ### ✅ Verified Credential
 
+**Completion Date:** April 5, 2026
+
 👉 **[View Full Program Certificate](./Wharton%20AI%20For%20Business%20Coursera%200OW7RWDG2DMO.pdf)**
 
 ---
