@@ -14,36 +14,64 @@
 
 ---
 
-### 🎓 Google: AI for Research and Insights
+### 🏫 Google: AI for Research and Insights
 
-This course is part of **Google AI Professional Certificate** and develops practical knowledge for responsible, effective AI-enabled work.
+Uses Gemini Deep Research and Gemini Notebook to research, synthesize, and communicate findings.
 
----
-
-### 📚 Course Focus
-
-Efficient research, source synthesis, and insight development.
+Official course information: [Coursera course page](https://www.coursera.org/learn/google-ai-for-research-and-insights).
 
 ---
 
-### ✅ Completed - Certificate Available
+### 🎯 Course Overview
 
-The official course certificate issued by **Google** through Coursera is available here:
+This directory documents the verified course credential and the official module structure published by Coursera. Module notes are concise, factual portfolio summaries rather than reproductions of protected course materials.
+
+---
+
+### 📚 Modules
+
+| Module | Topics |
+| :--- | :--- |
+| [Module 1: Build a research report with Gemini Deep Research](./Module%201%20-%20Build%20a%20research%20report%20with%20Gemini%20Deep%20Research.md) | Research planning; source-based investigation; report creation |
+| [Module 2: Create and share research summaries in Gemini Notebook](./Module%202%20-%20Create%20and%20share%20research%20summaries%20in%20Gemini%20Notebook.md) | Grounded summaries; knowledge sharing; Gemini Notebook |
+| [Module 3: Build an expert advisor with Gemini](./Module%203%20-%20Build%20an%20expert%20advisor%20with%20Gemini.md) | Expert-advisor configuration; source grounding; question answering |
+
+---
+
+### 🧠 Key Learnings
+
+- Explain the course's core concepts using the issuer's terminology.
+- Connect the module topics to practical decisions and workflows.
+- Evaluate relevant AI or digital-work practices with attention to their capabilities and limitations.
+
+---
+
+### 🛠 Skills
+
+- Research
+- Information synthesis
+- Insight generation
+- Google Gemini
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Course Certificate](./Google%20AI%20for%20Research%20and%20Insights%20Coursera%2094B506GPM8GH.pdf)**
-
 ---
 
-### 💡 Professional Relevance
+### 🎓 Part of
 
-This learning supports my work as an **AI Automation Engineer** by connecting core concepts to reliable, scalable, and human-centered automation workflows.
+This course is part of the **Google AI Professional Certificate**.
+
+👉 [View the full program](../README.md)
 
 ---
 
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

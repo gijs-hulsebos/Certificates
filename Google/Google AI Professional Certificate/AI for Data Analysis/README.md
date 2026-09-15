@@ -14,36 +14,64 @@
 
 ---
 
-### 🎓 Google: AI for Data Analysis
+### 🏫 Google: AI for Data Analysis
 
-This course is part of **Google AI Professional Certificate** and develops practical knowledge for responsible, effective AI-enabled work.
+Uses Gemini and Google Sheets to define metrics, extract insights, analyze performance, and explore scenarios.
 
----
-
-### 📚 Course Focus
-
-Using AI to explore data, identify patterns, and communicate findings.
+Official course information: [Coursera course page](https://www.coursera.org/learn/google-ai-for-data-analysis).
 
 ---
 
-### ✅ Completed - Certificate Available
+### 🎯 Course Overview
 
-The official course certificate issued by **Google** through Coursera is available here:
+This directory documents the verified course credential and the official module structure published by Coursera. Module notes are concise, factual portfolio summaries rather than reproductions of protected course materials.
+
+---
+
+### 📚 Modules
+
+| Module | Topics |
+| :--- | :--- |
+| [Module 1: Define key performance metrics using Gemini](./Module%201%20-%20Define%20key%20performance%20metrics%20using%20Gemini.md) | Business objectives; KPI definition; measurement planning |
+| [Module 2: Turn screenshots into data insights with Gemini in Sheets](./Module%202%20-%20Turn%20screenshots%20into%20data%20insights%20with%20Gemini%20in%20Sheets.md) | Data extraction from screenshots; analysis in Sheets; communicating insights |
+| [Module 3: Analyze and simulate business performance with Gemini in Sheets and Canvas](./Module%203%20-%20Analyze%20and%20simulate%20business%20performance%20with%20Gemini%20in%20Sheets%20and%20Canvas.md) | Performance analysis; scenario simulation; Sheets and Canvas |
+
+---
+
+### 🧠 Key Learnings
+
+- Explain the course's core concepts using the issuer's terminology.
+- Connect the module topics to practical decisions and workflows.
+- Evaluate relevant AI or digital-work practices with attention to their capabilities and limitations.
+
+---
+
+### 🛠 Skills
+
+- Data analysis
+- Performance metrics
+- Google Sheets
+- Google Gemini
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Course Certificate](./Google%20AI%20for%20Data%20Analysis%20Coursera%20C0SG38AZ9WVX.pdf)**
-
 ---
 
-### 💡 Professional Relevance
+### 🎓 Part of
 
-This learning supports my work as an **AI Automation Engineer** by connecting core concepts to reliable, scalable, and human-centered automation workflows.
+This course is part of the **Google AI Professional Certificate**.
+
+👉 [View the full program](../README.md)
 
 ---
 
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

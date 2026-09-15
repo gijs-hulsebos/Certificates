@@ -14,41 +14,44 @@
 
 ---
 
-### 🎓 Google: Google Prompting Essentials Specialization
+### 🏫 Google: Google Prompting Essentials Specialization
 
-This four-course specialization develops structured, reusable prompting skills for everyday professional work.
+A four-course specialization on designing, refining, and applying prompts across everyday work, analysis, presentations, and creative collaboration.
+
+Official program information: [Coursera program page](https://www.coursera.org/specializations/prompting-essentials-google).
 
 ---
 
 ### 📚 Course Breakdown
 
-| Course | Status | Path |
+| Course | Focus | Path |
 | :--- | :--- | :--- |
-| **Start Writing Prompts like a Pro** | ✅ Completed - certificate available | [Folder](./Start%20Writing%20Prompts%20like%20a%20Pro) |
-| **Design Prompts for Everyday Work Tasks** | ✅ Completed - certificate available | [Folder](./Design%20Prompts%20for%20Everyday%20Work%20Tasks) |
-| **Speed Up Data Analysis and Presentation Building** | ✅ Completed - certificate available | [Folder](./Speed%20Up%20Data%20Analysis%20and%20Presentation%20Building) |
-| **Use AI as a Creative or Expert Partner** | ✅ Completed - certificate available | [Folder](./Use%20AI%20as%20a%20Creative%20or%20Expert%20Partner) |
+| **Design Prompts for Everyday Work Tasks** | Course documentation and verified credential. | [Folder](./Design%20Prompts%20for%20Everyday%20Work%20Tasks) |
+| **Speed Up Data Analysis and Presentation Building** | Course documentation and verified credential. | [Folder](./Speed%20Up%20Data%20Analysis%20and%20Presentation%20Building) |
+| **Start Writing Prompts like a Pro** | Course documentation and verified credential. | [Folder](./Start%20Writing%20Prompts%20like%20a%20Pro) |
+| **Use AI as a Creative or Expert Partner** | Course documentation and verified credential. | [Folder](./Use%20AI%20as%20a%20Creative%20or%20Expert%20Partner) |
 
 ---
 
-### ✅ Completed - Verified Credential
+### 🧠 Program Themes and Skills
 
-The official program certificate issued by **Google** through Coursera is available here:
+- Prompt engineering
+- Prompt iteration
+- Workplace productivity
+- AI-assisted analysis
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Full Program Certificate](./Google%20Prompting%20Essentials%20Coursera%2098XKSYTBB3GX.pdf)**
 
 ---
 
-### 💡 Strategic Alignment
-
-This program strengthens the combination of technical AI literacy, responsible implementation, and measurable business value required for production-grade AI automation.
-
----
-
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

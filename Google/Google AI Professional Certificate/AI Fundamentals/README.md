@@ -14,36 +14,67 @@
 
 ---
 
-### 🎓 Google: AI Fundamentals
+### 🏫 Google: AI Fundamentals
 
-This course is part of **Google AI Professional Certificate** and develops practical knowledge for responsible, effective AI-enabled work.
+Builds foundational AI literacy through practical use, prompt design, an explanation of how AI works, and responsible-use practices.
 
----
-
-### 📚 Course Focus
-
-Core AI concepts, capabilities, limitations, and responsible use.
+Official course information: [Coursera course page](https://www.coursera.org/learn/google-ai-fundamentals).
 
 ---
 
-### ✅ Completed - Certificate Available
+### 🎯 Course Overview
 
-The official course certificate issued by **Google** through Coursera is available here:
+This directory documents the verified course credential and the official module structure published by Coursera. Module notes are concise, factual portfolio summaries rather than reproductions of protected course materials.
+
+---
+
+### 📚 Modules
+
+| Module | Topics |
+| :--- | :--- |
+| [Module 1: Collaborate with AI](./Module%201%20-%20Collaborate%20with%20AI.md) | AI collaboration; task selection; human judgment |
+| [Module 2: Practice using AI](./Module%202%20-%20Practice%20using%20AI.md) | Hands-on AI use; iteration; reviewing output |
+| [Module 3: Learn how AI works](./Module%203%20-%20Learn%20how%20AI%20works.md) | AI and model foundations; capabilities and limits; informed use |
+| [Module 4: Design great prompts](./Module%204%20-%20Design%20great%20prompts.md) | Prompt components; clear instructions; context and output requirements |
+| [Module 5: Level up your prompts](./Module%205%20-%20Level%20up%20your%20prompts.md) | Prompt iteration; advanced refinements; evaluating results |
+| [Module 6: Use AI responsibly](./Module%206%20-%20Use%20AI%20responsibly.md) | Responsible use; privacy, bias, and safety; human oversight |
+
+---
+
+### 🧠 Key Learnings
+
+- Explain the course's core concepts using the issuer's terminology.
+- Connect the module topics to practical decisions and workflows.
+- Evaluate relevant AI or digital-work practices with attention to their capabilities and limitations.
+
+---
+
+### 🛠 Skills
+
+- AI literacy
+- Prompt engineering
+- Responsible AI
+- Generative AI
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Course Certificate](./Google%20AI%20Fundamentals%20Coursera%20QQAQ6JQVLYV2.pdf)**
-
 ---
 
-### 💡 Professional Relevance
+### 🎓 Part of
 
-This learning supports my work as an **AI Automation Engineer** by connecting core concepts to reliable, scalable, and human-centered automation workflows.
+This course is part of the **Google AI Professional Certificate**.
+
+👉 [View the full program](../README.md)
 
 ---
 
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

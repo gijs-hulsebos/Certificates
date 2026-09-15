@@ -14,36 +14,64 @@
 
 ---
 
-### 🎓 Google: AI for Brainstorming and Planning
+### 🏫 Google: AI for Brainstorming and Planning
 
-This course is part of **Google AI Professional Certificate** and develops practical knowledge for responsible, effective AI-enabled work.
+Applies Gemini to ideation, project planning, and knowledge organization.
 
----
-
-### 📚 Course Focus
-
-Ideation, planning, prioritization, and structured decision support.
+Official course information: [Coursera course page](https://www.coursera.org/learn/google-ai-for-brainstorming-and-planning).
 
 ---
 
-### ✅ Completed - Certificate Available
+### 🎯 Course Overview
 
-The official course certificate issued by **Google** through Coursera is available here:
+This directory documents the verified course credential and the official module structure published by Coursera. Module notes are concise, factual portfolio summaries rather than reproductions of protected course materials.
+
+---
+
+### 📚 Modules
+
+| Module | Topics |
+| :--- | :--- |
+| [Module 1: Brainstorm ideas in Gemini](./Module%201%20-%20Brainstorm%20ideas%20in%20Gemini.md) | Idea generation; expanding and evaluating options; Gemini |
+| [Module 2: Create a project timeline in Gemini](./Module%202%20-%20Create%20a%20project%20timeline%20in%20Gemini.md) | Project milestones; sequencing work; timeline creation |
+| [Module 3: Build a knowledge hub in Gemini Notebook](./Module%203%20-%20Build%20a%20knowledge%20hub%20in%20Gemini%20Notebook.md) | Source organization; notebook-based knowledge hubs; grounded synthesis |
+
+---
+
+### 🧠 Key Learnings
+
+- Explain the course's core concepts using the issuer's terminology.
+- Connect the module topics to practical decisions and workflows.
+- Evaluate relevant AI or digital-work practices with attention to their capabilities and limitations.
+
+---
+
+### 🛠 Skills
+
+- Brainstorming
+- Project planning
+- Knowledge management
+- Google Gemini
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Course Certificate](./Google%20AI%20for%20Brainstorming%20and%20Planning%20Coursera%20PLICJTET51SZ.pdf)**
-
 ---
 
-### 💡 Professional Relevance
+### 🎓 Part of
 
-This learning supports my work as an **AI Automation Engineer** by connecting core concepts to reliable, scalable, and human-centered automation workflows.
+This course is part of the **Google AI Professional Certificate**.
+
+👉 [View the full program](../README.md)
 
 ---
 
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

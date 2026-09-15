@@ -14,44 +14,54 @@
 
 ---
 
-### 🎓 Google: Google AI Professional Certificate
+### 🏫 Google: Google AI Professional Certificate
 
-This seven-course Professional Certificate covers practical AI use across research, analysis, communication, creation, planning, and app building.
+A practical program using AI for research, analysis, communication, content creation, planning, and application building.
+
+Official program information: [Coursera program page](https://www.coursera.org/professional-certificates/google-ai).
 
 ---
 
 ### 📚 Course Breakdown
 
-| Course | Status | Path |
+| Course | Focus | Path |
 | :--- | :--- | :--- |
-| **AI Fundamentals** | ✅ Completed - certificate available | [Folder](./AI%20Fundamentals) |
-| **AI for App Building** | ✅ Completed - certificate available | [Folder](./AI%20for%20App%20Building) |
-| **AI for Brainstorming and Planning** | ✅ Completed - certificate available | [Folder](./AI%20for%20Brainstorming%20and%20Planning) |
-| **AI for Content Creation** | ✅ Completed - certificate available | [Folder](./AI%20for%20Content%20Creation) |
-| **AI for Data Analysis** | ✅ Completed - certificate available | [Folder](./AI%20for%20Data%20Analysis) |
-| **AI for Research and Insights** | ✅ Completed - certificate available | [Folder](./AI%20for%20Research%20and%20Insights) |
-| **AI for Writing and Communicating** | ✅ Completed - certificate available | [Folder](./AI%20for%20Writing%20and%20Communicating) |
+| **AI for App Building** | Course documentation and verified credential. | [Folder](./AI%20for%20App%20Building) |
+| **AI for Brainstorming and Planning** | Course documentation and verified credential. | [Folder](./AI%20for%20Brainstorming%20and%20Planning) |
+| **AI for Content Creation** | Course documentation and verified credential. | [Folder](./AI%20for%20Content%20Creation) |
+| **AI for Data Analysis** | Course documentation and verified credential. | [Folder](./AI%20for%20Data%20Analysis) |
+| **AI for Research and Insights** | Course documentation and verified credential. | [Folder](./AI%20for%20Research%20and%20Insights) |
+| **AI for Writing and Communicating** | Course documentation and verified credential. | [Folder](./AI%20for%20Writing%20and%20Communicating) |
+| **AI Fundamentals** | Course documentation and verified credential. | [Folder](./AI%20Fundamentals) |
 
 ---
 
-### ✅ Completed - Verified Credential
+### 🧠 Program Themes and Skills
 
-The official program certificate issued by **Google** through Coursera is available here:
+- AI literacy
+- Prompt engineering
+- Research and data analysis
+- Content and app creation
+- Responsible AI
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Full Program Certificate](./Google%20AI%20Coursera%20AJT88YN6XUS4.pdf)**
 
 ---
 
-### 💡 Strategic Alignment
+### ℹ️ Curriculum Note
 
-This program strengthens the combination of technical AI literacy, responsible implementation, and measurable business value required for production-grade AI automation.
+The archived March 2026 credential verifies the seven completed courses in this repository. Coursera later expanded the live program to eight courses, adding AI for App Deployment; that later course is not represented as completed here.
 
 ---
 
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 

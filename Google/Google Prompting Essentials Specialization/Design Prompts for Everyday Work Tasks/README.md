@@ -14,36 +14,61 @@
 
 ---
 
-### 🎓 Google: Design Prompts for Everyday Work Tasks
+### 🏫 Google: Design Prompts for Everyday Work Tasks
 
-This course is part of **Google Prompting Essentials Specialization** and develops practical knowledge for responsible, effective AI-enabled work.
+Applies prompting techniques to recurring workplace tasks and structured outputs.
 
----
-
-### 📚 Course Focus
-
-Designing reusable prompts for practical workplace workflows.
+Official course information: [Coursera course page](https://www.coursera.org/learn/google-design-prompts-for-everyday-work-tasks).
 
 ---
 
-### ✅ Completed - Certificate Available
+### 🎯 Course Overview
 
-The official course certificate issued by **Google** through Coursera is available here:
+This directory documents the verified course credential and the official module structure published by Coursera. Module notes are concise, factual portfolio summaries rather than reproductions of protected course materials.
+
+---
+
+### 📚 Modules
+
+| Module | Topics |
+| :--- | :--- |
+| [Module 1: Design prompts for everyday work tasks](./Module%201%20-%20Design%20prompts%20for%20everyday%20work%20tasks.md) | Task decomposition; prompt structure; useful workplace outputs |
+
+---
+
+### 🧠 Key Learnings
+
+- Explain the course's core concepts using the issuer's terminology.
+- Connect the module topics to practical decisions and workflows.
+- Evaluate relevant AI or digital-work practices with attention to their capabilities and limitations.
+
+---
+
+### 🛠 Skills
+
+- Prompt engineering
+- Workplace productivity
+- Task design
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Course Certificate](./Google%20Design%20Prompts%20for%20Everyday%20Work%20Tasks%20Coursera%20UW436PTF8EEO.pdf)**
-
 ---
 
-### 💡 Professional Relevance
+### 🎓 Part of
 
-This learning supports my work as an **AI Automation Engineer** by connecting core concepts to reliable, scalable, and human-centered automation workflows.
+This course is part of the **Google Prompting Essentials Specialization**.
+
+👉 [View the full program](../README.md)
 
 ---
 
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 
