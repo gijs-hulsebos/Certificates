@@ -14,41 +14,44 @@
 
 ---
 
-### 🎓 University of Pennsylvania (Wharton): AI For Business Specialization
+### 🏫 University of Pennsylvania (Wharton): AI For Business Specialization
 
-This specialization provides a business-focused framework for AI strategy, governance, people management, marketing, finance, and practical implementation.
+A four-course program connecting AI foundations and applications with strategy, governance, marketing, finance, and people management.
+
+Official program information: [Coursera program page](https://www.coursera.org/specializations/ai-for-business-wharton).
 
 ---
 
 ### 📚 Course Breakdown
 
-| Course | Status | Path |
+| Course | Focus | Path |
 | :--- | :--- | :--- |
-| **AI Application in People Management** | ✅ Completed - certificate available | [Folder](./AI%20Application%20in%20People%20Management) |
-| **AI Applications in Marketing and Finance** | ✅ Completed - certificate available | [Folder](./AI%20Applications%20in%20Marketing%20and%20Finance) |
-| **AI Strategy and Governance** | ✅ Completed - certificate available | [Folder](./AI%20Strategy%20and%20Governance) |
-| **AI for non-Data Scientists** | ✅ Completed - certificate available | [Folder](./AI%20for%20non-Data%20Scientists) |
+| **AI Application in People Management** | Course documentation and verified credential. | [Folder](./AI%20Application%20in%20People%20Management) |
+| **AI Applications in Marketing and Finance** | Course documentation and verified credential. | [Folder](./AI%20Applications%20in%20Marketing%20and%20Finance) |
+| **AI for non-Data Scientists** | Course documentation and verified credential. | [Folder](./AI%20for%20non-Data%20Scientists) |
+| **AI Strategy and Governance** | Course documentation and verified credential. | [Folder](./AI%20Strategy%20and%20Governance) |
 
 ---
 
-### ✅ Completed - Verified Credential
+### 🧠 Program Themes and Skills
 
-The official program certificate issued by **University of Pennsylvania** through Coursera is available here:
+- AI strategy and governance
+- People management
+- Marketing and finance
+- Machine-learning literacy
+
+---
+
+### ✅ Verified Credential
 
 👉 **[View Full Program Certificate](./Wharton%20AI%20For%20Business%20Coursera%200OW7RWDG2DMO.pdf)**
 
 ---
 
-### 💡 Strategic Alignment
-
-This program strengthens the combination of technical AI literacy, responsible implementation, and measurable business value required for production-grade AI automation.
-
----
-
 ### 🌐 Let's Connect
 
-- **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-- **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **LinkedIn:** [in/gijs-hulsebos](https://www.linkedin.com/in/gijs-hulsebos)
 
 ---
 
